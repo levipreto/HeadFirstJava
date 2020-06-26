@@ -1,4 +1,4 @@
-package HeadFirst;
+// EXAMPLE PAGE 50 of 722 (p. 16)
 
 public class PhraseOMatic {
     public static void main (String[] args) {

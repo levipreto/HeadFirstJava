@@ -1,4 +1,4 @@
-package HeadFirst;
+// EXERCICE PAGE 48 of 722 (p. 14)
 
 public class Beersong {
         public static void main (String[] args) {

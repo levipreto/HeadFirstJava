@@ -1,4 +1,4 @@
-package HeadFirst;
+// SHARPEN YOUR PENCIL PAGE 47 of 722 (p. 13)
 
 public class Exercice1{
 
