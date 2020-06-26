@@ -21,6 +21,6 @@ public class Suffle1 {
                 System.out.print("d");
                 x = x - 1;
             }
-        } // end While
-    } // end main Class
-} // end Class
+        } // end while
+    } // end main method
+} // end class

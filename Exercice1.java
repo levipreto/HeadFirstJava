@@ -13,5 +13,5 @@ public class Exercice1{
     if (x == 3 ) {
         System.out.print("Do");
         }
-    }
-}
+    } // end main method
+} // end class
