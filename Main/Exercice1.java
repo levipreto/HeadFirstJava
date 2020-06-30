@@ -1,4 +1,5 @@
 // SHARPEN YOUR PENCIL PAGE 47 of 722 (p. 13)
+package Main;
 
 public class Exercice1{
 

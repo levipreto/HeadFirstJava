@@ -1,3 +1,5 @@
+package Main;
+
 class Dog {
 
     int size;

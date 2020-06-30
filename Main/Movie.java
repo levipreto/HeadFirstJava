@@ -1,3 +1,5 @@
+package Main;
+
 class Movie {
     String title;
     String genre;

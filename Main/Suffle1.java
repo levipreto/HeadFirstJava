@@ -1,4 +1,5 @@
 // EXERCISE PAGE 54 of 722 (p. 20)
+package Main;
 
 public class Suffle1 {
         public static void main (String[] args) {

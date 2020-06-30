@@ -1,4 +1,5 @@
 // EXERCISE PAGE 58 of 722 (p. 24)
+package Main;
 
 // OUTPUT: 
 // a noise

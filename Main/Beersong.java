@@ -1,4 +1,5 @@
 // EXERCICE PAGE 48 of 722 (p. 14)
+package Main;
 
 public class Beersong {
         public static void main (String[] args) {

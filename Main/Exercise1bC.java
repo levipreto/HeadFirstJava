@@ -1,4 +1,5 @@
 // EXERCISE PAGE 55 of 722 (p. 21)
+package Main;
 
 public class Exercise1bC {
     public static void main(String[] args) {
