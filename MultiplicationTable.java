@@ -2,12 +2,9 @@ public class MultiplicationTable {
 
     public static void main (String[] args) {
     int table = 5;
-    int multiply = -1;
+    int multiply;
 
-        while (multiply < 10) {
-        
-            multiply = multiply + 1;
-
+        for (multiply = 0; multiply <= 10; multiply++) {
             System.out.printf("%d * %d = %d", table, multiply, table * multiply).println();
         }
     }
